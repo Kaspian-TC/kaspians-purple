@@ -82,7 +82,7 @@
 		"focusBorder": "#DCDCCC60",
 		"gitDecoration.conflictingResourceForeground": "#FFC8F2",
 		"gitDecoration.deletedResourceForeground": "#F86663",
-		"gitDecoration.ignoredResourceForeground": "#459AC4",
+		"gitDecoration.ignoredResourceForeground": "#DCDCCC60",
 		"gitDecoration.modifiedResourceForeground": "#B4ADEA",
 		"gitDecoration.untrackedResourceForeground": "#FFA630",
 
@@ -177,8 +177,8 @@
 		"sideBar.background": "#202020",
 		"sideBar.border": "#DCDCCC50",
 		"sideBar.foreground": "#DCDCCC",
-		"sideBarSectionHeader.background": "#3D3845",
-		"sideBarSectionHeader.border": "#3D384560",
+		"sideBarSectionHeader.background": "#404040",
+		// "sideBarSectionHeader.border": "#3D384560",
 		"sideBarSectionHeader.foreground": "#FFA630",
 		"sideBarTitle.foreground": "#DCDCCC",
 
@@ -217,12 +217,12 @@
 		"terminal.ansiBrightWhite": "#DCDCCC",
 		"terminal.ansiBrightYellow": "#FFA630",
 		"terminal.ansiCyan": "#9DFFE5",
-		"terminal.ansiGreen": "#9DFFE5",
+		"terminal.ansiGreen": "#8FFF97",
 		"terminal.ansiMagenta": "#FFC8F2",
-		"terminal.ansiRed": "#F6D3FF",
+		"terminal.ansiRed": "#F86663",
 		"terminal.ansiWhite": "#DCDCCC60",
 		"terminal.ansiYellow": "#FFC06E",
-		"terminalCursor.background": "#FFC8F2",
+		"terminalCursor.background": "#3D3845",
 		"terminalCursor.foreground": "#DCDCCC",
 		
 		"textLink.activeForeground": "#DCDCCC",
@@ -241,10 +241,10 @@
 		{
 		  "scope": [
 			// "variable",
-			"string constant.other.placeholder",
+			// "string constant.other.placeholder",
 			"invalid.deprecated",
 			// "keyword",
-			"entity.name.type",
+			
 			"storage.type",
 			"storage.modifier"
 		  ],
@@ -517,11 +517,11 @@
 			"constant.other.symbol",
 			"constant.other.key",
 			"entity.other.inherited-class",
-			"keyword.other.unit",
 			"markup.heading",
 			"markup.inserted.git_gutter",
 			"meta.group.braces.curly",
 			"constant.other.object.key.js",
+			"entity.name.type",
 			"string.unquoted.label.js"
 		  ],
 		  "settings": {
@@ -658,7 +658,8 @@
 			"constant.character.escape"
 		  ],
 		  "settings": {
-			"foreground": "#8FFF97"
+			"foreground": "#F86663",
+			"fontStyle": "bold"
 		  }
 		},
 		{
@@ -725,11 +726,11 @@
 			"markdown.heading",
 			"markup.heading | markup.heading entity.name",
 			"markup.heading.markdown punctuation.definition.heading.markdown",
-			"entity.name.section.markdown"
+			"entity.name.section.markdown",
+			"string.quoted.single"
 		  ],
 		  "settings": {
-			"foreground": "#B4ADEA",
-			"fontStyle": "bold"
+			"foreground": "#B4ADEA"
 		  }
 		},
 		{
