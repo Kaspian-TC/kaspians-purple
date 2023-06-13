@@ -1,16 +1,5 @@
 # kaspians-purple README
 
-## Working with Markdown
+I made this theme for VS code to match a similar theme I made for notepad++ when writing C files. It's my first theme so don't expect anything amazing, but it's mine and I like it. 
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
-
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
-
-## For more information
-
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
-
-**Enjoy!**
+If you find anything you'd like to improve, feel free to make a pull request and I'll get to it when I can!
