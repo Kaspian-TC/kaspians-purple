@@ -184,7 +184,7 @@
 
 		"statusBar.background": "#202020",
 		"statusBar.border": "#DCDCCC60",
-		"statusBar.debuggingBackground": "#FFC8F2",
+		"statusBar.debuggingBackground": "#459AC4",
 		"statusBar.debuggingForeground": "#FFA630",
 		"statusBar.foreground": "#DCDCCC",
 		"statusBar.noFolderBackground": "#3D3845",
@@ -220,7 +220,7 @@
 		"terminal.ansiGreen": "#8FFF97",
 		"terminal.ansiMagenta": "#FFC8F2",
 		"terminal.ansiRed": "#F86663",
-		"terminal.ansiWhite": "#DCDCCC60",
+		// "terminal.ansiWhite": "#DCDCCC60",
 		"terminal.ansiYellow": "#FFC06E",
 		"terminalCursor.background": "#3D3845",
 		"terminalCursor.foreground": "#DCDCCC",
