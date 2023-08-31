@@ -48,10 +48,9 @@
 		"editorGutter.modifiedBackground": "#F8666360",
 
 		"editorHoverWidget.background": "#404040",
-		// "editorHoverWidget.background": "#3D3845",
 		"editorHoverWidget.border": "#DCDCCC60",
-		"editorIndentGuide.activeBackground": "#F0F9F9",
-		"editorIndentGuide.background": "#4F5F5F",
+		"editorIndentGuide.activeBackground1": "#F0F9F9",
+		"editorIndentGuide.background1": "#4F5F5F",
 		"editorInfo.foreground": "#F8666370",
 		"editorLineNumber.activeForeground": "#F86663",
 		"editorLineNumber.foreground": "#8A8A8Ac0",
@@ -235,7 +234,8 @@
 		"titleBar.inactiveForeground": "#dcdccca4",
 
 		"tree.indentGuidesStroke": "#0c0c0c",
-		"widget.shadow": "#3D384530",
+		// "widget.shadow": "#3D384530",
+		"widget.border": "#DCDCCC60"
 	  },
 	  "tokenColors": [
 		{
@@ -466,7 +466,7 @@
 				"variable.function.constructor"
 			],
 			"settings": {
-				"foreground": "#EE6D91",
+				"foreground": "#Df647A",
 				"fontStyle": "bold"
 			}
 		},
